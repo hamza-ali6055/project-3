@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": false,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": true,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": false,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": true,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": true,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": true,
+        "images": "code.png"
+    },
+    {
+        "id" : 1,
+        "title" : "game development",
+        "slug" : "game-development",
+        "description": "lorem ipsum ",
+        "price": "99.99",
+        "instructor": "mali",
+        "isFeatured": false,
+        "images": "code.png"
+    }
+    ]
+}
